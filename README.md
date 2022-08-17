@@ -5,7 +5,10 @@ Using MAX485(RS-485 module), based on [DYNAMIXEL Protocol 2.0](https://emanual.r
 
 > Only tesed on [H42-20-S300-R](https://emanual.robotis.com/docs/en/dxl/pro/h42-20-s300-r/) and [H54-200-S500-R](https://emanual.robotis.com/docs/en/dxl/pro/h54-200-s500-r/), using STM32 NUCLEO-F446RE.
 
-## Pin map
+## Usage
+[STM32 Example](https://github.com/ziteh/robotis-dynamixel-motor-example)
+
+### Pin map
 | NUCLEO-F446RE Board  | MAX485    |
 | -------------------- | --------- |
 | D3 (PB3)             | DE and RE |
